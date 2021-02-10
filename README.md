@@ -1,2 +1,2 @@
 # first-website
-### Using git hub for gthe first time
+### Using git hub for the first time
